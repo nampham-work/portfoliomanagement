@@ -1,4 +1,4 @@
-# Portfolio Management and Quantitative Finance Projects
+# Quantitative Finance Projects
 
 Welcome to my GitHub repository! This space is dedicated to showcasing my work and projects related to portfolio management, quantitative finance, and quantitative analytics. Here, you will find a variety of projects that demonstrate my skills and interests in these fields.
 
