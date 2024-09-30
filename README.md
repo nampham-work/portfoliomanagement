@@ -22,8 +22,8 @@ Here are some of the key projects you can find in this repository:
   - Description: This project focuses on optimizing an investment portfolio using Modern Portfolio Theory, aiming to maximize returns for a given level of risk.
   - Technologies: Python, NumPy, pandas, Matplotlib.
 
-- **Value at Risk Calculation with Monte Carlo Simulation**
-  - Description: This project calculates the Value at Risk (VaR) of a portfolio using Monte Carlo simulation techniques, providing insights into potential losses in a given timeframe.
+- **Value at Risk Calculation with different methods**
+  - Description: This project calculates the Value at Risk (VaR) of a portfolio using Monte Carlo, Historical Return and Co-Variance simulation techniques, providing insights into potential losses in a given timeframe.
   - Technologies: Python, NumPy, pandas.
 
 - **CAPM Calculation with Quantitative Finance Model**
