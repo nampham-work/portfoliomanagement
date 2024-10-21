@@ -35,13 +35,8 @@ Here are some of the key projects you can find in this repository:
 This repository utilizes various programming languages, libraries, and tools, including but not limited to:
 
 - Python (pandas, scikit-learn, matplotlib, numpy)
-- R
-- pandas
-- NumPy
-- Matplotlib
-- scikit-learn
 - Jupyter Notebooks
-- SQL
+- SQL (for database management)
 
 ## Contact
 
